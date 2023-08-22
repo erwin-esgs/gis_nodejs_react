@@ -1,0 +1,1005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.3303, -0.013578] },
+      "properties": {
+        "MMSI": "525003263",
+        "SHIP_ID": "2138300",
+        "HEADING": 511,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8714, -6.057597] },
+      "properties": {
+        "MMSI": "525002063",
+        "SHIP_ID": "1037134",
+        "HEADING": 511,
+        "STATUS": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [99.84989, 6.303482] },
+      "properties": {
+        "MMSI": "319072700",
+        "SHIP_ID": "1063491",
+        "HEADING": 348,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [119.9236, -5.786955] },
+      "properties": {
+        "MMSI": "525200835",
+        "SHIP_ID": "1104032",
+        "HEADING": 263,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.9314, 2.344767] },
+      "properties": {
+        "MMSI": "205408000",
+        "SHIP_ID": "114067",
+        "HEADING": 173,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6779, 1.296797] },
+      "properties": {
+        "MMSI": "311000852",
+        "SHIP_ID": "118030",
+        "HEADING": 137,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7936, 1.166622] },
+      "properties": {
+        "MMSI": "205670000",
+        "SHIP_ID": "118798",
+        "HEADING": 59,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9045, 1.223802] },
+      "properties": {
+        "MMSI": "419001202",
+        "SHIP_ID": "121376",
+        "HEADING": 240,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.1149, 1.330978] },
+      "properties": {
+        "MMSI": "209128000",
+        "SHIP_ID": "121595",
+        "HEADING": 193,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.6823, 2.436867] },
+      "properties": {
+        "MMSI": "533180090",
+        "SHIP_ID": "1226313",
+        "HEADING": 308,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.8689, 3.174333] },
+      "properties": {
+        "MMSI": "416499000",
+        "SHIP_ID": "1230315",
+        "HEADING": 135,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [115.0411, 5.244495] },
+      "properties": {
+        "MMSI": "525005353",
+        "SHIP_ID": "123328",
+        "HEADING": 337,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7867, 1.2562] },
+      "properties": {
+        "MMSI": "209979000",
+        "SHIP_ID": "123616",
+        "HEADING": 32,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.233, 1.895515] },
+      "properties": {
+        "MMSI": "210102000",
+        "SHIP_ID": "123965",
+        "HEADING": 119,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.5266, 4.15755] },
+      "properties": {
+        "MMSI": "210761000",
+        "SHIP_ID": "125522",
+        "HEADING": 312,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [108.045, -5.733333] },
+      "properties": {
+        "MMSI": "525020155",
+        "SHIP_ID": "1297377",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.8217, 1.200383] },
+      "properties": {
+        "MMSI": "248160000",
+        "SHIP_ID": "144828",
+        "HEADING": 130,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7816, 1.257248] },
+      "properties": {
+        "MMSI": "212330000",
+        "SHIP_ID": "144909",
+        "HEADING": 302,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.6212, -5.8351] },
+      "properties": {
+        "MMSI": "525119192",
+        "SHIP_ID": "145899",
+        "HEADING": 90,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [112.725, -7.186666] },
+      "properties": {
+        "MMSI": "525020364",
+        "SHIP_ID": "1460680",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.819, 1.227945] },
+      "properties": {
+        "MMSI": "209486000",
+        "SHIP_ID": "149023",
+        "HEADING": 153,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7552, 1.29561] },
+      "properties": {
+        "MMSI": "529979000",
+        "SHIP_ID": "150775",
+        "HEADING": 64,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.5573, 1.320193] },
+      "properties": {
+        "MMSI": "636017722",
+        "SHIP_ID": "151605",
+        "HEADING": 352,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.7899, 2.360343] },
+      "properties": {
+        "MMSI": "636018018",
+        "SHIP_ID": "151708",
+        "HEADING": 306,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [133.2883, -9.383333] },
+      "properties": {
+        "MMSI": "563052300",
+        "SHIP_ID": "152903",
+        "HEADING": 102,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.5838, 3.966167] },
+      "properties": {
+        "MMSI": "995330510",
+        "SHIP_ID": "1552445",
+        "HEADING": 511,
+        "STATUS": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9473, 1.239167] },
+      "properties": {
+        "MMSI": "357481000",
+        "SHIP_ID": "157414",
+        "HEADING": 511,
+        "STATUS": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.0543, 2.113985] },
+      "properties": {
+        "MMSI": "220008000",
+        "SHIP_ID": "158232",
+        "HEADING": 310,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.95, 5.871666] },
+      "properties": {
+        "MMSI": "220289000",
+        "SHIP_ID": "158852",
+        "HEADING": 511,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.5818, 2.445] },
+      "properties": {
+        "MMSI": "220480000",
+        "SHIP_ID": "159336",
+        "HEADING": 129,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9, 1.263808] },
+      "properties": {
+        "MMSI": "538006010",
+        "SHIP_ID": "1597489",
+        "HEADING": 176,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.85, 1.831667] },
+      "properties": {
+        "MMSI": "636018466",
+        "SHIP_ID": "168041",
+        "HEADING": 190,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.6723, 3.013423] },
+      "properties": {
+        "MMSI": "477712200",
+        "SHIP_ID": "1683886",
+        "HEADING": 146,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.2744, 2.840277] },
+      "properties": {
+        "MMSI": "533180157",
+        "SHIP_ID": "172397",
+        "HEADING": 338,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9889, 1.249928] },
+      "properties": {
+        "MMSI": "538008159",
+        "SHIP_ID": "186729",
+        "HEADING": 116,
+        "STATUS": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6452, 1.308228] },
+      "properties": {
+        "MMSI": "538009032",
+        "SHIP_ID": "191596",
+        "HEADING": 226,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8267, 2.333333] },
+      "properties": {
+        "MMSI": "525003571",
+        "SHIP_ID": "197028",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.5167, 1.20975] },
+      "properties": {
+        "MMSI": "235085368",
+        "SHIP_ID": "197581",
+        "HEADING": 282,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.8412, 1.257015] },
+      "properties": {
+        "MMSI": "563030050",
+        "SHIP_ID": "2056524",
+        "HEADING": 511,
+        "STATUS": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9431, 1.295358] },
+      "properties": {
+        "MMSI": "566287000",
+        "SHIP_ID": "2070237",
+        "HEADING": 26,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9383, 1.237533] },
+      "properties": {
+        "MMSI": "235108514",
+        "SHIP_ID": "2095725",
+        "HEADING": 35,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.0059, 1.290443] },
+      "properties": {
+        "MMSI": "538007271",
+        "SHIP_ID": "213113",
+        "HEADING": 189,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9367, 1.270617] },
+      "properties": {
+        "MMSI": "240586000",
+        "SHIP_ID": "213243",
+        "HEADING": 210,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6701, 1.216528] },
+      "properties": {
+        "MMSI": "240715000",
+        "SHIP_ID": "213558",
+        "HEADING": 277,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9453, 1.282583] },
+      "properties": {
+        "MMSI": "636017817",
+        "SHIP_ID": "214202",
+        "HEADING": 197,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.142, 2.175017] },
+      "properties": {
+        "MMSI": "241029000",
+        "SHIP_ID": "214299",
+        "HEADING": 100,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.0768, 1.317693] },
+      "properties": {
+        "MMSI": "352978149",
+        "SHIP_ID": "214312",
+        "HEADING": 255,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6853, 1.165432] },
+      "properties": {
+        "MMSI": "241260000",
+        "SHIP_ID": "214866",
+        "HEADING": 300,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [116.0819, 5.997347] },
+      "properties": {
+        "MMSI": "533170255",
+        "SHIP_ID": "2153464",
+        "HEADING": 24,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [115.2516, 5.267386] },
+      "properties": {
+        "MMSI": "533000548",
+        "SHIP_ID": "2260088",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.2911, 2.88295] },
+      "properties": {
+        "MMSI": "533132096",
+        "SHIP_ID": "227821",
+        "HEADING": 68,
+        "STATUS": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [108.5716, -6.705483] },
+      "properties": {
+        "MMSI": "563633000",
+        "SHIP_ID": "2316891",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.0039, 1.292517] },
+      "properties": {
+        "MMSI": "229380000",
+        "SHIP_ID": "2432",
+        "HEADING": 227,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6517, 1.232058] },
+      "properties": {
+        "MMSI": "565437000",
+        "SHIP_ID": "2516675",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6015, 1.265283] },
+      "properties": {
+        "MMSI": "565649000",
+        "SHIP_ID": "2542834",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.795, 1.511667] },
+      "properties": {
+        "MMSI": "248568000",
+        "SHIP_ID": "259651",
+        "HEADING": 181,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7665, 1.269343] },
+      "properties": {
+        "MMSI": "565951000",
+        "SHIP_ID": "2616870",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.4258, 3.970947] },
+      "properties": {
+        "MMSI": "245955000",
+        "SHIP_ID": "264317",
+        "HEADING": 251,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [108.4565, -6.295338] },
+      "properties": {
+        "MMSI": "525008095",
+        "SHIP_ID": "2657454",
+        "HEADING": 134,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.5194, 3.344098] },
+      "properties": {
+        "MMSI": "477615500",
+        "SHIP_ID": "274414",
+        "HEADING": 319,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.874, 1.455167] },
+      "properties": {
+        "MMSI": "563075400",
+        "SHIP_ID": "276083",
+        "HEADING": 511,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.054, 1.892135] },
+      "properties": {
+        "MMSI": "525010294",
+        "SHIP_ID": "2773315",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.3765, 1.268483] },
+      "properties": {
+        "MMSI": "525201810",
+        "SHIP_ID": "279298",
+        "HEADING": 314,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.4902, 1.183255] },
+      "properties": {
+        "MMSI": "229584000",
+        "SHIP_ID": "2849",
+        "HEADING": 347,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.5249, 1.207955] },
+      "properties": {
+        "MMSI": "636019583",
+        "SHIP_ID": "285367",
+        "HEADING": 283,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [127.9325, -4.37955] },
+      "properties": {
+        "MMSI": "354077000",
+        "SHIP_ID": "288230",
+        "HEADING": 223,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.713, 1.089058] },
+      "properties": {
+        "MMSI": "538007903",
+        "SHIP_ID": "288364",
+        "HEADING": 60,
+        "STATUS": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.1655, 1.268997] },
+      "properties": {
+        "MMSI": "249661000",
+        "SHIP_ID": "289338",
+        "HEADING": 85,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9027, -5.98205] },
+      "properties": {
+        "MMSI": "255805576",
+        "SHIP_ID": "300117",
+        "HEADING": 57,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.8791, 1.246883] },
+      "properties": {
+        "MMSI": "312261000",
+        "SHIP_ID": "301103",
+        "HEADING": 17,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7913, -6.10289] },
+      "properties": {
+        "MMSI": "563019950",
+        "SHIP_ID": "3019231",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [115.2806, 5.235983] },
+      "properties": {
+        "MMSI": "257145000",
+        "SHIP_ID": "304617",
+        "HEADING": 197,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [105.9833, -5.956666] },
+      "properties": {
+        "MMSI": "525001136",
+        "SHIP_ID": "3073310",
+        "HEADING": 14,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.8838, 1.273007] },
+      "properties": {
+        "MMSI": "257713000",
+        "SHIP_ID": "308314",
+        "HEADING": 151,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.4033, 3.316402] },
+      "properties": {
+        "MMSI": "258795000",
+        "SHIP_ID": "312716",
+        "HEADING": 133,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6846, 1.194777] },
+      "properties": {
+        "MMSI": "525114108",
+        "SHIP_ID": "314512",
+        "HEADING": 132,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [128.1806, -3.686365] },
+      "properties": {
+        "MMSI": "525600467",
+        "SHIP_ID": "3159679",
+        "HEADING": 511,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7269, 1.309552] },
+      "properties": {
+        "MMSI": "563032550",
+        "SHIP_ID": "3226619",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.4343, -8.147622] },
+      "properties": {
+        "MMSI": "525003322",
+        "SHIP_ID": "3274706",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.3575, 3.011787] },
+      "properties": {
+        "MMSI": "533180156",
+        "SHIP_ID": "3389325",
+        "HEADING": 511,
+        "STATUS": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.5524, 3.140415] },
+      "properties": {
+        "MMSI": "319079100",
+        "SHIP_ID": "3398535",
+        "HEADING": 335,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [119.3717, -4.869683] },
+      "properties": {
+        "MMSI": "572783210",
+        "SHIP_ID": "3410990",
+        "HEADING": 511,
+        "STATUS": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7502, 1.293218] },
+      "properties": {
+        "MMSI": "563031380",
+        "SHIP_ID": "3423898",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.8061, 1.215558] },
+      "properties": {
+        "MMSI": "565512000",
+        "SHIP_ID": "3433438",
+        "HEADING": 276,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.31, 5.489015] },
+      "properties": {
+        "MMSI": "533170292",
+        "SHIP_ID": "3439582",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.8433, -1.123333] },
+      "properties": {
+        "MMSI": "525003301",
+        "SHIP_ID": "3446843",
+        "HEADING": 511,
+        "STATUS": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7918, 1.265017] },
+      "properties": {
+        "MMSI": "215221000",
+        "SHIP_ID": "3447387",
+        "HEADING": 211,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.6173, 1.305018] },
+      "properties": {
+        "MMSI": "563032950",
+        "SHIP_ID": "3460460",
+        "HEADING": 247,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7267, 1.141278] },
+      "properties": {
+        "MMSI": "538004901",
+        "SHIP_ID": "3479637",
+        "HEADING": 299,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7127, 1.222023] },
+      "properties": {
+        "MMSI": "563033250",
+        "SHIP_ID": "3520853",
+        "HEADING": 117,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9904, 1.266935] },
+      "properties": {
+        "MMSI": "419001016",
+        "SHIP_ID": "3523794",
+        "HEADING": 265,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.9159, 1.4318] },
+      "properties": {
+        "MMSI": "574946000",
+        "SHIP_ID": "3544863",
+        "HEADING": 104,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.3046, 2.952455] },
+      "properties": {
+        "MMSI": "255616000",
+        "SHIP_ID": "3545882",
+        "HEADING": 30,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.4325, -8.138211] },
+      "properties": {
+        "MMSI": "525021371",
+        "SHIP_ID": "3556927",
+        "HEADING": 170,
+        "STATUS": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.4372, -8.15967] },
+      "properties": {
+        "MMSI": "525100465",
+        "SHIP_ID": "3564799",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7332, 1.289093] },
+      "properties": {
+        "MMSI": "525012044",
+        "SHIP_ID": "3587055",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.7256, 1.301177] },
+      "properties": {
+        "MMSI": "563609000",
+        "SHIP_ID": "3594044",
+        "HEADING": 114,
+        "STATUS": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.899, -5.98088] },
+      "properties": {
+        "MMSI": "525100639",
+        "SHIP_ID": "361187",
+        "HEADING": 511,
+        "STATUS": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.8983, -2.453333] },
+      "properties": {
+        "MMSI": "525022379",
+        "SHIP_ID": "3628794",
+        "HEADING": 511,
+        "STATUS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.0973, 1.196377] },
+      "properties": {
+        "MMSI": "563034660",
+        "SHIP_ID": "3634078",
+        "HEADING": 511,
+        "STATUS": 99
+      }
+    }
+  ]
+}

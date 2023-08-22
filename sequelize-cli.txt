@@ -1,0 +1,7 @@
+npx sequelize-cli model:generate --name tbl_user --attributes user_id:integer,nrp:string,nama_lengkap:string,pangkat:string,jabatan:string,manager_user_id:integer,organisasi_id:integer,no_hp:string,email:string,password:string
+npx sequelize-cli model:generate --name tbl_organisasi --attributes organisasi_id:integer,tim:string,unit:string,subdit:string
+npx sequelize-cli model:generate --name tbl_presensi --attributes presensi_id:integer,user_id:integer,check_in_datetime:date,check_in_location:string,check_out_datetime:date,check_out_location:string,description:string,status:string
+npx sequelize-cli model:generate --name tbl_kuota --attributes kuota_id:integer,user_id:integer,leave_type_id:integer,leave_balance:integer
+npx sequelize-cli model:generate --name tbl_sakit --attributes sakit_id:integer,user_id:integer,start_date:date,end_data:date,medical_diagnosis:string,status:integer
+npx sequelize-cli model:generate --name tbl_cuti --attributes sakit_id:integer,user_id:integer,leave_type_id:integer,start_date:date,end_data:date,medical_diagnosis:string,status:integer
+npx sequelize-cli model:generate --name tbl_leave_type --attributes leave_type_id:integer,leave_type:string,default_leave_quota:integer

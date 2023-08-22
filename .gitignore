@@ -1,0 +1,6 @@
+.env
+node_modules/
+frontend/node_modules/
+frontend/.env
+frontend/src/pages/maps/DataDummy-v2.csv
+frontend/src/pages/maps/dummy2juta.csv
